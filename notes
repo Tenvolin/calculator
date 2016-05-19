@@ -1,0 +1,15 @@
+things to do:
+-- determine required functions
+-- find debugger --> js is cancer doing this straight from txt
+-- finish "+" component of = operator
+-- "=" assembles everything and gives you a final result
+-- have text flow off the left side of display
+-- do rounding of outlines/borders/buttons
+-- redesign colours to look good
+-- determine most used operators on calculators and see if we have an appropriate amount
+-- see if we can redesign the way buttons are organized --> take a look at old project
+DONE -- add enough blocks to consider operations you want
+DONE -- Center calculator perfectly horizontally and vertically
+DONE -- mouseclick on operator adds operator
+DONE -- mouseclick on digit button adds #
+DONE -- how to create arrays
